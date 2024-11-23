@@ -10,12 +10,19 @@
 
 <br> 
 
-<h3 align="left">Connect with me:</h3>
+<h4 align="left"> You can also check out my other content to explore more of my articles and projects.:</h4>
 <p align="left">
+  
 <a href="https://linkedin.com/in/joken-villanueva-776b99157" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joken-villanueva-776b99157" height="30" width="40" /></a>
 <a href="https://fb.com/@itsourcecode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@itsourcecode" height="30" width="40" /></a>
 <a href="https://medium.com/@pies052022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pies052022" height="30" width="40" /></a>
 </p>
+
+<br> 
+
+<h4 align="left">📌 I would appreciate it if you could follow me. </h4>
+
+You can also check my website 🌐 **[Itsourcecode.com](https://itsourcecode.com/)** for free programming projects.
 
 <br> 
 
