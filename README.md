@@ -10,7 +10,7 @@
 
 ## [Itsourcecode.com](https://itsourcecode.com/)🚀
 
-Thank you for being a part of the Itsourcecode community!
+Thank you for being a part of the **Itsourcecode** community!
 
 I would appreciate it if you could show your support by following the author.
 
